@@ -14,10 +14,11 @@ class Dog {
   }
 }
 
-class ExamplesDogs {
-  ExamplesDogs() {
+class ExamplesDog {
+  ExamplesDog() {
   }
 
   Dog huffle = new Dog("Hufflepuff", "Wheaten Terrier", 2012, "TX", true);
   Dog pearl = new Dog("Pearl", "Labrador Retriever", 2016, "MA", false);
+  Dog rex = new Dog("Rex", "Labrador", 2015, "MA", true);
 }
