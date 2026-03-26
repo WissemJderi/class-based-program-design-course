@@ -11,7 +11,7 @@
 |         | [x] [Assignment 1](https://course.ccs.neu.edu/cs2510sp22/assignment1.html)                                                |
 | Week 3  | [x] [Lecture 6: Accumulator Methods](https://course.ccs.neu.edu/cs2510sp22/lecture6.html)                                 |
 |         | [x] [Lab 2](https://course.ccs.neu.edu/cs2510sp22/lab2.html)                                                              |
-|         | [Lecture 7: Accumulator Methods, Continued](https://course.ccs.neu.edu/cs2510sp22/lecture7.html)                          |
+|         | [x] [Lecture 7: Accumulator Methods, Continued](https://course.ccs.neu.edu/cs2510sp22/lecture7.html)                      |
 |         | [Assignment 2](https://course.ccs.neu.edu/cs2510sp22/assignment2.html)                                                    |
 |         | [Lecture 8: Practice Design](https://course.ccs.neu.edu/cs2510sp22/lecture8.html)                                         |
 | Week 4  | [Lecture 9: Abstract Classes and Inheritance](https://course.ccs.neu.edu/cs2510sp22/lecture9.html)                        |
