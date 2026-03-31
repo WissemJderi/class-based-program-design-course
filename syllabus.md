@@ -18,7 +18,7 @@
 |         | [x] [Lab 3](https://course.ccs.neu.edu/cs2510sp22/lab3.html)                                                              |
 |         | [x] [Lecture 10: Customizing Constructors](https://course.ccs.neu.edu/cs2510sp22/lecture10.html)                          |
 |         | [Assignment 3](https://course.ccs.neu.edu/cs2510sp22/assignment3.html)                                                    |
-|         | [Lecture 11: Defining Sameness for Complex Data, Part 1](https://course.ccs.neu.edu/cs2510sp22/lecture11.html)            |
+|         | [x] [Lecture 11: Defining Sameness for Complex Data, Part 1](https://course.ccs.neu.edu/cs2510sp22/lecture11.html)        |
 | Week 5  | [Lecture 12: Defining Sameness for Complex Data, Part 2](https://course.ccs.neu.edu/cs2510sp22/lecture12.html)            |
 |         | [Lab 4](https://course.ccs.neu.edu/cs2510sp22/lab4.html)                                                                  |
 |         | [Lecture 13: Abstracting Over Behavior](https://course.ccs.neu.edu/cs2510sp22/lecture13.html)                             |
