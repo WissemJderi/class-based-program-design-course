@@ -21,7 +21,7 @@
 |         | [x] [Lecture 11: Defining Sameness for Complex Data, Part 1](https://course.ccs.neu.edu/cs2510sp22/lecture11.html)        |
 | Week 5  | [x] [Lecture 12: Defining Sameness for Complex Data, Part 2](https://course.ccs.neu.edu/cs2510sp22/lecture12.html)        |
 |         | [x] [Lab 4](https://course.ccs.neu.edu/cs2510sp22/lab4.html)                                                              |
-|         | [Lecture 13: Abstracting Over Behavior](https://course.ccs.neu.edu/cs2510sp22/lecture13.html)                             |
+|         | [x] [Lecture 13: Abstracting Over Behavior](https://course.ccs.neu.edu/cs2510sp22/lecture13.html)                         |
 |         | [Assignment 4](https://course.ccs.neu.edu/cs2510sp22/assignment4.html)                                                    |
 |         | [Lecture 14: Abstractions Over More Than One Argument](https://course.ccs.neu.edu/cs2510sp22/lecture14.html)              |
 | Week 6  | [Lab 5](https://course.ccs.neu.edu/cs2510sp22/lab5.html)                                                                  |
