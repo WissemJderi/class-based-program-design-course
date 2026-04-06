@@ -23,7 +23,7 @@
 |         | [x] [Lab 4](https://course.ccs.neu.edu/cs2510sp22/lab4.html)                                                              |
 |         | [x] [Lecture 13: Abstracting Over Behavior](https://course.ccs.neu.edu/cs2510sp22/lecture13.html)                         |
 |         | [Assignment 4](https://course.ccs.neu.edu/cs2510sp22/assignment4.html)                                                    |
-|         | [Lecture 14: Abstractions Over More Than One Argument](https://course.ccs.neu.edu/cs2510sp22/lecture14.html)              |
+|         | [x] [Lecture 14: Abstractions Over More Than One Argument](https://course.ccs.neu.edu/cs2510sp22/lecture14.html)          |
 | Week 6  | [Lab 5](https://course.ccs.neu.edu/cs2510sp22/lab5.html)                                                                  |
 |         | Exam 1                                                                                                                    |
 |         | [Lecture 15: Abstracting Over Types](https://course.ccs.neu.edu/cs2510sp22/lecture15.html)                                |
