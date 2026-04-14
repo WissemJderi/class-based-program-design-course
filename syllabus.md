@@ -24,11 +24,11 @@
 |         | [x] [Lecture 13: Abstracting Over Behavior](https://course.ccs.neu.edu/cs2510sp22/lecture13.html)                         |
 |         | [Assignment 4](https://course.ccs.neu.edu/cs2510sp22/assignment4.html)                                                    |
 |         | [x] [Lecture 14: Abstractions Over More Than One Argument](https://course.ccs.neu.edu/cs2510sp22/lecture14.html)          |
-| Week 6  | [Lab 5](https://course.ccs.neu.edu/cs2510sp22/lab5.html)                                                                  |
+| Week 6  | [x] [Lab 5](https://course.ccs.neu.edu/cs2510sp22/lab5.html)                                                              |
 |         | Exam 1                                                                                                                    |
-|         | [Lecture 15: Abstracting Over Types](https://course.ccs.neu.edu/cs2510sp22/lecture15.html)                                |
+|         | [x] [Lecture 15: Abstracting Over Types](https://course.ccs.neu.edu/cs2510sp22/lecture15.html)                            |
 |         | [Assignment 5](https://course.ccs.neu.edu/cs2510sp22/assignment5.html)                                                    |
-| Week 7  | [Lecture 16: Visitors](https://course.ccs.neu.edu/cs2510sp22/lecture16.html)                                              |
+| Week 7  | [x] [Lecture 16: Visitors](https://course.ccs.neu.edu/cs2510sp22/lecture16.html)                                          |
 |         | [Lab 6](https://course.ccs.neu.edu/cs2510sp22/lab6.html)                                                                  |
 |         | [Lecture 17: Mutation](https://course.ccs.neu.edu/cs2510sp22/lecture17.html)                                              |
 |         | [Assignment 6](https://course.ccs.neu.edu/cs2510sp22/assignment6.html)                                                    |
