@@ -33,9 +33,9 @@
 |         | [x] [Lecture 17: Mutation](https://course.ccs.neu.edu/cs2510sp22/lecture17.html)                                          |
 |         | [Assignment 6](https://course.ccs.neu.edu/cs2510sp22/assignment6.html)                                                    |
 |         | [x] [Lecture 18: Mutation Inside Structures](https://course.ccs.neu.edu/cs2510sp22/lecture18.html)                        |
-| Week 8  | [Lecture 19: Mutation, Aliasing, and Testing](https://course.ccs.neu.edu/cs2510sp22/lecture19.html)                       |
+| Week 8  | [x] [Lecture 19: Mutation, Aliasing, and Testing](https://course.ccs.neu.edu/cs2510sp22/lecture19.html)                   |
 |         | [Lab 7](https://course.ccs.neu.edu/cs2510sp22/lab7.html)                                                                  |
-|         | [Lecture 20: Mutable Data Structures](https://course.ccs.neu.edu/cs2510sp22/lecture20.html)                               |
+|         | [x] [Lecture 20: Mutable Data Structures](https://course.ccs.neu.edu/cs2510sp22/lecture20.html)                           |
 |         | [Assignment 7](https://course.ccs.neu.edu/cs2510sp22/assignment7.html)                                                    |
 |         | [Lecture 21: ArrayLists](https://course.ccs.neu.edu/cs2510sp22/lecture21.html)                                            |
 | Week 9  | [Lecture 22: ArrayLists](https://course.ccs.neu.edu/cs2510sp22/lecture22.html)                                            |
