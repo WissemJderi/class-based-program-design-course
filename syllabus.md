@@ -37,10 +37,10 @@
 |         | [Lab 7](https://course.ccs.neu.edu/cs2510sp22/lab7.html)                                                                  |
 |         | [x] [Lecture 20: Mutable Data Structures](https://course.ccs.neu.edu/cs2510sp22/lecture20.html)                           |
 |         | [Assignment 7](https://course.ccs.neu.edu/cs2510sp22/assignment7.html)                                                    |
-|         | [Lecture 21: ArrayLists](https://course.ccs.neu.edu/cs2510sp22/lecture21.html)                                            |
-| Week 9  | [Lecture 22: ArrayLists](https://course.ccs.neu.edu/cs2510sp22/lecture22.html)                                            |
-|         | [Lab 8](https://course.ccs.neu.edu/cs2510sp22/lab8.html)                                                                  |
-|         | [Lecture 23: For-each Loops and Counted-for Loops](https://course.ccs.neu.edu/cs2510sp22/lecture23.html)                  |
+|         | [x] [Lecture 21: ArrayLists](https://course.ccs.neu.edu/cs2510sp22/lecture21.html)                                        |
+| Week 9  | [x] [Lecture 22: ArrayLists](https://course.ccs.neu.edu/cs2510sp22/lecture22.html)                                        |
+|         | [x] [Lab 8](https://course.ccs.neu.edu/cs2510sp22/lab8.html)                                                              |
+|         | [x] [Lecture 23: For-each Loops and Counted-for Loops](https://course.ccs.neu.edu/cs2510sp22/lecture23.html)              |
 |         | [Assignment 8](https://course.ccs.neu.edu/cs2510sp22/assignment8.html)                                                    |
 |         | [Lecture 24: While Loops](https://course.ccs.neu.edu/cs2510sp22/lecture24.html)                                           |
 | Week 10 | [Lecture 25: Iterator and Iterable](https://course.ccs.neu.edu/cs2510sp22/lecture25.html)                                 |
