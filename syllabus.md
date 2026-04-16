@@ -41,9 +41,9 @@
 | Week 9  | [x] [Lecture 22: ArrayLists](https://course.ccs.neu.edu/cs2510sp22/lecture22.html)                                        |
 |         | [x] [Lab 8](https://course.ccs.neu.edu/cs2510sp22/lab8.html)                                                              |
 |         | [x] [Lecture 23: For-each Loops and Counted-for Loops](https://course.ccs.neu.edu/cs2510sp22/lecture23.html)              |
-|         | [Assignment 8](https://course.ccs.neu.edu/cs2510sp22/assignment8.html)                                                    |
-|         | [Lecture 24: While Loops](https://course.ccs.neu.edu/cs2510sp22/lecture24.html)                                           |
-| Week 10 | [Lecture 25: Iterator and Iterable](https://course.ccs.neu.edu/cs2510sp22/lecture25.html)                                 |
+|         | [x] [Assignment 8](https://course.ccs.neu.edu/cs2510sp22/assignment8.html)                                                |
+|         | [x] [Lecture 24: While Loops](https://course.ccs.neu.edu/cs2510sp22/lecture24.html)                                       |
+| Week 10 | [x] [Lecture 25: Iterator and Iterable](https://course.ccs.neu.edu/cs2510sp22/lecture25.html)                             |
 |         | [Lab 9](https://course.ccs.neu.edu/cs2510sp22/lab9.html)                                                                  |
 |         | [Lecture 26: Hashing and Equality](https://course.ccs.neu.edu/cs2510sp22/lecture26.html)                                  |
 |         | [Assignment 9 Part 1](https://course.ccs.neu.edu/cs2510sp22/assignment9.html)                                             |
