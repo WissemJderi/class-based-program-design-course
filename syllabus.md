@@ -44,10 +44,10 @@
 |         | [x] [Assignment 8](https://course.ccs.neu.edu/cs2510sp22/assignment8.html)                                                |
 |         | [x] [Lecture 24: While Loops](https://course.ccs.neu.edu/cs2510sp22/lecture24.html)                                       |
 | Week 10 | [x] [Lecture 25: Iterator and Iterable](https://course.ccs.neu.edu/cs2510sp22/lecture25.html)                             |
-|         | [Lab 9](https://course.ccs.neu.edu/cs2510sp22/lab9.html)                                                                  |
-|         | [Lecture 26: Hashing and Equality](https://course.ccs.neu.edu/cs2510sp22/lecture26.html)                                  |
-|         | [Assignment 9 Part 1](https://course.ccs.neu.edu/cs2510sp22/assignment9.html)                                             |
-|         | [Lecture 27: Introduction to Big-O Analysis](https://course.ccs.neu.edu/cs2510sp22/lecture27.html)                        |
+|         | [x] [Lab 9](https://course.ccs.neu.edu/cs2510sp22/lab9.html)                                                              |
+|         | [x] [Lecture 26: Hashing and Equality](https://course.ccs.neu.edu/cs2510sp22/lecture26.html)                              |
+|         | [x] [Assignment 9 Part 1](https://course.ccs.neu.edu/cs2510sp22/assignment9.html)                                         |
+|         | [x] [Lecture 27: Introduction to Big-O Analysis](https://course.ccs.neu.edu/cs2510sp22/lecture27.html)                    |
 | Week 11 | [Lecture 30: Breadth-first Search and Depth-first Search](https://course.ccs.neu.edu/cs2510sp22/lecture30.html)           |
 |         | [Lab 10](https://course.ccs.neu.edu/cs2510sp22/lab10.html)                                                                |
 |         | Exam 2                                                                                                                    |
