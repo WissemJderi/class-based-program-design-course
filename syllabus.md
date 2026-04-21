@@ -48,13 +48,13 @@
 |         | [x] [Lecture 26: Hashing and Equality](https://course.ccs.neu.edu/cs2510sp22/lecture26.html)                              |
 |         | [x] [Assignment 9 Part 1](https://course.ccs.neu.edu/cs2510sp22/assignment9.html)                                         |
 |         | [x] [Lecture 27: Introduction to Big-O Analysis](https://course.ccs.neu.edu/cs2510sp22/lecture27.html)                    |
-| Week 11 | [Lecture 30: Breadth-first Search and Depth-first Search](https://course.ccs.neu.edu/cs2510sp22/lecture30.html)           |
-|         | [Lab 10](https://course.ccs.neu.edu/cs2510sp22/lab10.html)                                                                |
+| Week 11 | [x] [Lecture 30: Breadth-first Search and Depth-first Search](https://course.ccs.neu.edu/cs2510sp22/lecture30.html)       |
+|         | [x] [Lab 10](https://course.ccs.neu.edu/cs2510sp22/lab10.html)                                                            |
 |         | Exam 2                                                                                                                    |
-|         | [Lecture 28: Quicksort and Mergesort](https://course.ccs.neu.edu/cs2510sp22/lecture28.html)                               |
-| Week 12 | [Lecture 29: Priority Queues and Heapsort](https://course.ccs.neu.edu/cs2510sp22/lecture29.html)                          |
-|         | [Assignment 9 Part 2](https://course.ccs.neu.edu/cs2510sp22/assignment9.html)                                             |
-|         | [Lab 11](https://course.ccs.neu.edu/cs2510sp22/lab11.html)                                                                |
+|         | [x] [Lecture 28: Quicksort and Mergesort](https://course.ccs.neu.edu/cs2510sp22/lecture28.html)                           |
+| Week 12 | [x] [Lecture 29: Priority Queues and Heapsort](https://course.ccs.neu.edu/cs2510sp22/lecture29.html)                      |
+|         | [x] [Assignment 9 Part 2](https://course.ccs.neu.edu/cs2510sp22/assignment9.html)                                         |
+|         | [x] [Lab 11](https://course.ccs.neu.edu/cs2510sp22/lab11.html)                                                            |
 |         | [Lecture 31: Dijkstra’s Algorithm for Single-source Shortest Paths](https://course.ccs.neu.edu/cs2510sp22/lecture31.html) |
 |         | [Lecture 32: Minimum Spanning Trees](https://course.ccs.neu.edu/cs2510sp22/lecture32.html)                                |
 | Week 13 | [Lab 12](https://course.ccs.neu.edu/cs2510sp22/lab12.html)                                                                |
