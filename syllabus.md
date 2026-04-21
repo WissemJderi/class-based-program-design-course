@@ -56,11 +56,11 @@
 |         | [x] [Assignment 9 Part 2](https://course.ccs.neu.edu/cs2510sp22/assignment9.html)                                             |
 |         | [x] [Lab 11](https://course.ccs.neu.edu/cs2510sp22/lab11.html)                                                                |
 |         | [x] [Lecture 31: Dijkstra’s Algorithm for Single-source Shortest Paths](https://course.ccs.neu.edu/cs2510sp22/lecture31.html) |
-|         | [Lecture 32: Minimum Spanning Trees](https://course.ccs.neu.edu/cs2510sp22/lecture32.html)                                    |
-| Week 13 | [Lab 12](https://course.ccs.neu.edu/cs2510sp22/lab12.html)                                                                    |
-|         | [Assignment 10 Part 1](https://course.ccs.neu.edu/cs2510sp22/assignment10.html)                                               |
+|         | [x] [Lecture 32: Minimum Spanning Trees](https://course.ccs.neu.edu/cs2510sp22/lecture32.html)                                |
+| Week 13 | [x] [Lab 12](https://course.ccs.neu.edu/cs2510sp22/lab12.html)                                                                |
+|         | [x] [Assignment 10 Part 1](https://course.ccs.neu.edu/cs2510sp22/assignment10.html)                                           |
 |         | [Lecture 34: Implementing Objects](https://course.ccs.neu.edu/cs2510sp22/lecture34.html)                                      |
-|         | [Lecture 35: Dynamic Programming](https://course.ccs.neu.edu/cs2510sp22/lecture35.html)                                       |
+|         | [x] [Lecture 35: Dynamic Programming](https://course.ccs.neu.edu/cs2510sp22/lecture35.html)                                   |
 | Week 14 | Lecture 35: Intro to OOD part 1                                                                                               |
 |         | [Assignment 10 Part 2](https://course.ccs.neu.edu/cs2510sp22/assignment10.html)                                               |
 |         | Lecture 35: Intro to OOD part 2                                                                                               |
